@@ -52,7 +52,7 @@ const userSchema = new Schema(
             type : String
         },
 
-        forgorPasswordToken : {
+        forgotPasswordToken : {
             type : String
         },
 
